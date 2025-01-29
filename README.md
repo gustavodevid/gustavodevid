@@ -18,11 +18,11 @@
 
   
 
-• 🔭 I’m currently working on <b>something cool!</b>  <br/>
+• 🔭 I’m currently working on <b>IFPB, Fidelius</b>  <br/>
 
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
+• 👯 I’m collaborating on <b>Mundo Gooli</b><br/>
 
-• 💬 Ask me about <b>Full Stack</b>.<br/>
+• 💬 Ask me about <b>Java</b>.<br/>
 
 • 📫 Reach me out <a href="https://www.instagram.com/gustavobardavid"><b>@gustavobardavid</b></a><br/>
 </span>
