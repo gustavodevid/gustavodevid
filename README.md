@@ -4,11 +4,11 @@
 
 **I am a self-taught Full-stack web/mobile developer from Brazil.**
 <br/><br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
-<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code.
 <!-- <br />**I have 5+ Years of experience in full-stack web-dev.**-->
 <br />
 
- <a href="https://bardavid.vercel.app"><b>Porfólio</b></a><br/>
+ <a href="https://gustavodevid.vercel.app"><b>Porfólio</b></a><br/>
   
 
 ##  Fun Fact 🎈:
